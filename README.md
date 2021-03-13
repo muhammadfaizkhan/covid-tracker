@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+<img src="https://camo.githubusercontent.com/1939278b1a2a4f2482f01f6d0766ac73979d2f0acc711c760d6657eaf5b9ccc3/68747470733a2f2f6d656469612d657870312e6c6963646e2e636f6d2f646d732f696d6167652f4335363136415146796830634b61336a5345512f70726f66696c652d646973706c61796261636b67726f756e64696d6167652d736872696e6b5f3230305f3830302f302f313631353034323336353739353f653d3136323038363430303026763d6265746126743d595551624e516854732d334b5656765474474e6a41625778312d38427241645a737638324f774a5a73304d"/>
+###
 
-This project was created with [React](https://github.com/facebook/create-react-app). by [Muhammad Faiz Khan](https://github.com/muhammadfaizkhan)
+# About Web Application
+
+Covid Tracker was created with [React](https://github.com/facebook/create-react-app) by [Muhammad Faiz Khan](https://github.com/muhammadfaizkhan)
 
 ## Available Scripts
 
