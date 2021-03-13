@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was created with [React](https://github.com/facebook/create-react-app).
+This project was created with [React](https://github.com/facebook/create-react-app). by [Muhammad Faiz Khan](https://github.com/muhammadfaizkhan)
 
 ## Available Scripts
 
